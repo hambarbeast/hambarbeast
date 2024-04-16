@@ -1,6 +1,10 @@
 ## Muhammad Amirul (hambarbeast)
 ### Hi there 👋
 
+I am a curious learner trying to learn coding on the side as I am juggling between jobs. Putting aside my coding records here.
+
+- 👯 Would appreciate the help and open discussion about C programming and the simple problem that needed solving.
+
 <!--
 **hambarbeast/hambarbeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
