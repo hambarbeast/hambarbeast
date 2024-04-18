@@ -1,3 +1,21 @@
+<h2 align="center">
+  MUHAMMAD AMIRUL (hambarbeast)
+</h2>
+<p align="center">
+  <a href='https://www.linkedin.com/in/amrlawal' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+</p>
+<p align="center">
+  <a href="#About">About</a>
+  <a href="#42KualaLumpur">42KualaLumpur</a>
+</p>
+
+## About
+Updating ..
+
+## 42KualaLumpur
+Updating ..
+
+<!--
 ## Muhammad Amirul (hambarbeast)
 ### Hi there 👋
 
@@ -5,7 +23,7 @@ I am a curious learner trying to learn coding on the side as I am juggling betwe
 
 - 👯 Would appreciate the help and open discussion about C programming and the simple problem that needed solving.
 
-<!--
+
 **hambarbeast/hambarbeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
